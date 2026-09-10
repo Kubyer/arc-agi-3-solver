@@ -1,0 +1,106 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-09-10 00:09:07 | INFO | Created new scorecard: cbece288-48e6-4201-b644-ed2a26e4f662
+2026-09-10 00:09:07 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-04-15 09:11:26.527584+00:00)
+2026-09-10 00:09:07 | INFO | Successfully loaded game class Ar25 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/ar25/0c556536/ar25.py
+ar25   levels  1/ 8 actions  800 levelRHAE [0] envScore   0.00 wins 1 go 5 keys 65 refits 71  16.4s state GameState.NOT_FINISHED
+2026-09-10 00:09:23 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-04-14 05:34:23.157386+00:00)
+2026-09-10 00:09:23 | INFO | Successfully loaded game class Bp35 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/bp35/0a0ad940/bp35.py
+bp35   levels  0/ 9 actions  800 levelRHAE [] envScore   0.00 wins 0 go 13 keys 59 refits 229  49.6s state GameState.NOT_FINISHED
+2026-09-10 00:10:13 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-04-17 03:31:42.159320+00:00)
+2026-09-10 00:10:13 | INFO | Successfully loaded game class Cd82 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/cd82/fb555c5d/cd82.py
+cd82   levels  0/ 6 actions  800 levelRHAE [] envScore   0.00 wins 0 go 8 keys 49 refits 105  17.4s state GameState.NOT_FINISHED
+2026-09-10 00:10:30 | INFO | Found latest version of cn04: cn04-2fe56bfb (downloaded: 2026-04-15 08:56:53.455675+00:00)
+2026-09-10 00:10:30 | INFO | Successfully loaded game class Cn04 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/cn04/2fe56bfb/cn04.py
+cn04   levels  1/ 6 actions  800 levelRHAE [2] envScore   0.00 wins 1 go 8 keys 60 refits 97  15.8s state GameState.NOT_FINISHED
+2026-09-10 00:10:46 | INFO | Found latest version of dc22: dc22-4c9bff3e (downloaded: 2026-04-06 18:39:36.410571+00:00)
+2026-09-10 00:10:46 | INFO | Successfully loaded game class Dc22 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/dc22/4c9bff3e/dc22.py
+dc22   levels  0/ 6 actions  800 levelRHAE [] envScore   0.00 wins 0 go 6 keys 53 refits 12   5.2s state GameState.NOT_FINISHED
+2026-09-10 00:10:51 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-04-15 06:37:27.607946+00:00)
+2026-09-10 00:10:51 | INFO | Successfully loaded game class Ft09 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/ft09/0d8bbf25/ft09.py
+ft09   levels  0/ 6 actions  800 levelRHAE [] envScore   0.00 wins 0 go 4 keys 57 refits 614  73.2s state GameState.NOT_FINISHED
+2026-09-10 00:12:05 | INFO | Found latest version of g50t: g50t-5849a774 (downloaded: 2026-04-12 21:05:28.144383+00:00)
+2026-09-10 00:12:05 | INFO | Successfully loaded game class G50t from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/g50t/5849a774/g50t.py
+g50t   levels  0/ 7 actions  800 levelRHAE [] envScore   0.00 wins 0 go 6 keys 5 refits 203  30.3s state GameState.NOT_FINISHED
+2026-09-10 00:12:35 | INFO | Found latest version of ka59: ka59-9f096b4a (downloaded: 2026-04-12 19:52:05.015909+00:00)
+2026-09-10 00:12:35 | INFO | Successfully loaded game class Ka59 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/ka59/9f096b4a/ka59.py
+ka59   levels  0/ 7 actions  800 levelRHAE [] envScore   0.00 wins 0 go 8 keys 28 refits 13   3.7s state GameState.NOT_FINISHED
+2026-09-10 00:12:39 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-04-13 18:28:45.373471+00:00)
+2026-09-10 00:12:39 | INFO | Successfully loaded game class Lf52 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/lf52/271a04aa/lf52.py
+lf52   levels  0/10 actions  800 levelRHAE [] envScore   0.00 wins 0 go 9 keys 44 refits 287  73.9s state GameState.NOT_FINISHED
+2026-09-10 00:13:53 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-04-15 16:21:55.718207+00:00)
+2026-09-10 00:13:53 | INFO | Successfully loaded game class Lp85 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/lp85/305b61c3/lp85.py
+lp85   levels  1/ 8 actions  800 levelRHAE [0] envScore   0.00 wins 1 go 1 keys 63 refits 12   7.5s state GameState.NOT_FINISHED
+2026-09-10 00:14:01 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-04-06 18:38:51.264500+00:00)
+2026-09-10 00:14:01 | INFO | Successfully loaded game class Ls20 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/ls20/9607627b/ls20.py
+ls20   levels  0/ 7 actions  800 levelRHAE [] envScore   0.00 wins 0 go 5 keys 4 refits 95  13.2s state GameState.NOT_FINISHED
+2026-09-10 00:14:14 | INFO | Found latest version of m0r0: m0r0-dadda488 (downloaded: 2026-04-12 18:08:42.624742+00:00)
+2026-09-10 00:14:14 | INFO | Successfully loaded game class M0r0 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/m0r0/dadda488/m0r0.py
+m0r0   levels  0/ 6 actions  800 levelRHAE [] envScore   0.00 wins 0 go 5 keys 68 refits 44   6.5s state GameState.NOT_FINISHED
+2026-09-10 00:14:20 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-04-15 16:23:29.686193+00:00)
+2026-09-10 00:14:21 | INFO | Successfully loaded game class R11l from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/r11l/495a7899/r11l.py
+r11l   levels  1/ 6 actions  800 levelRHAE [72] envScore   0.00 wins 1 go 30 keys 57 refits 455 147.1s state GameState.NOT_FINISHED
+2026-09-10 00:16:48 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-04-15 08:34:37.441611+00:00)
+2026-09-10 00:16:48 | INFO | Successfully loaded game class Re86 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/re86/8af5384d/re86.py
+re86   levels  0/ 8 actions  800 levelRHAE [] envScore   0.00 wins 0 go 8 keys 5 refits 64   6.1s state GameState.NOT_FINISHED
+2026-09-10 00:16:54 | INFO | Found latest version of s5i5: s5i5-a48e4b1d (downloaded: 2026-04-06 18:39:08.572517+00:00)
+2026-09-10 00:16:54 | INFO | Successfully loaded game class S5i5 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/s5i5/a48e4b1d/s5i5.py
+s5i5   levels  0/ 8 actions  800 levelRHAE [] envScore   0.00 wins 0 go 16 keys 30 refits 7   1.8s state GameState.NOT_FINISHED
+2026-09-10 00:16:56 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-04-12 18:38:56.370300+00:00)
+2026-09-10 00:16:56 | INFO | Successfully loaded game class Sb26 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/sb26/7fbdac44/sb26.py
+sb26   levels  0/ 8 actions  800 levelRHAE [] envScore   0.00 wins 0 go 8 keys 21 refits 556  77.8s state GameState.NOT_FINISHED
+2026-09-10 00:18:14 | INFO | Found latest version of sc25: sc25-f9b21a2f (downloaded: 2026-04-10 16:13:51.452941+00:00)
+2026-09-10 00:18:14 | INFO | Successfully loaded game class Sc25 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/sc25/f9b21a2f/sc25.py
+sc25   levels  0/ 6 actions  800 levelRHAE [] envScore   0.00 wins 0 go 9 keys 29 refits 732 102.2s state GameState.NOT_FINISHED
+2026-09-10 00:19:56 | INFO | Found latest version of sk48: sk48-41055498 (downloaded: 2026-04-12 21:31:55.292348+00:00)
+2026-09-10 00:19:56 | INFO | Successfully loaded game class Sk48 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/sk48/41055498/sk48.py
+sk48   levels  0/ 8 actions  800 levelRHAE [] envScore   0.00 wins 0 go 2 keys 47 refits 43   9.3s state GameState.NOT_FINISHED
+2026-09-10 00:20:05 | INFO | Found latest version of sp80: sp80-0ee2d095 (downloaded: 2026-04-10 20:02:01.617478+00:00)
+2026-09-10 00:20:05 | INFO | Successfully loaded game class Sp80 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/sp80/0ee2d095/sp80.py
+sp80   levels  0/ 6 actions  800 levelRHAE [] envScore   0.00 wins 0 go 75 keys 48 refits 1989 221.9s state GameState.NOT_FINISHED
+2026-09-10 00:23:47 | INFO | Found latest version of su15: su15-4c352900 (downloaded: 2026-04-06 18:51:14.938063+00:00)
+2026-09-10 00:23:47 | INFO | Successfully loaded game class Su15 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/su15/4c352900/su15.py
+su15   levels  0/ 9 actions  800 levelRHAE [] envScore   0.00 wins 0 go 11 keys 35 refits 197  26.0s state GameState.NOT_FINISHED
+2026-09-10 00:24:13 | INFO | Found latest version of tn36: tn36-ab4f63cc (downloaded: 2026-04-12 18:18:44.976387+00:00)
+2026-09-10 00:24:13 | INFO | Successfully loaded game class Tn36 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/tn36/ab4f63cc/tn36.py
+tn36   levels  0/ 7 actions  800 levelRHAE [] envScore   0.00 wins 0 go 13 keys 40 refits 25   5.8s state GameState.NOT_FINISHED
+2026-09-10 00:24:19 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-04-10 16:13:39.595499+00:00)
+2026-09-10 00:24:19 | INFO | Successfully loaded game class Tr87 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/tr87/cd924810/tr87.py
+tr87   levels  0/ 6 actions  800 levelRHAE [] envScore   0.00 wins 0 go 6 keys 4 refits 56   7.6s state GameState.NOT_FINISHED
+2026-09-10 00:24:27 | INFO | Found latest version of tu93: tu93-2b534c15 (downloaded: 2026-04-10 22:18:41.762638+00:00)
+2026-09-10 00:24:27 | INFO | Successfully loaded game class Tu93 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/tu93/2b534c15/tu93.py
+tu93   levels  0/ 9 actions  800 levelRHAE [] envScore   0.00 wins 0 go 16 keys 4 refits 73   6.9s state GameState.NOT_FINISHED
+2026-09-10 00:24:34 | INFO | Found latest version of vc33: vc33-9851e02b (downloaded: 2026-04-12 18:02:37.056858+00:00)
+2026-09-10 00:24:34 | INFO | Successfully loaded game class Vc33 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/vc33/9851e02b/vc33.py
+vc33   levels  0/ 7 actions  800 levelRHAE [] envScore   0.00 wins 0 go 16 keys 48 refits 57   7.3s state GameState.NOT_FINISHED
+2026-09-10 00:24:41 | INFO | Found latest version of wa30: wa30-ee6fef47 (downloaded: 2026-04-12 17:55:04.500265+00:00)
+2026-09-10 00:24:41 | INFO | Successfully loaded game class Wa30 from /home/hatch/workspace/goals/arc-prize-2026-paper-track-arc-agi-3/code/environment_files/wa30/ee6fef47/wa30.py
+wa30   levels  0/ 9 actions  800 levelRHAE [] envScore   0.00 wins 0 go 4 keys 5 refits 25   3.5s state GameState.NOT_FINISHED
+
+=== SUMMARY ===
+games=25 mean_env_score=0.00 total_levels=4
+  ar25: score=0.00 levels=1/8 actions=800
+  bp35: score=0.00 levels=0/9 actions=800
+  cd82: score=0.00 levels=0/6 actions=800
+  cn04: score=0.00 levels=1/6 actions=800
+  dc22: score=0.00 levels=0/6 actions=800
+  ft09: score=0.00 levels=0/6 actions=800
+  g50t: score=0.00 levels=0/7 actions=800
+  ka59: score=0.00 levels=0/7 actions=800
+  lf52: score=0.00 levels=0/10 actions=800
+  lp85: score=0.00 levels=1/8 actions=800
+  ls20: score=0.00 levels=0/7 actions=800
+  m0r0: score=0.00 levels=0/6 actions=800
+  r11l: score=0.00 levels=1/6 actions=800
+  re86: score=0.00 levels=0/8 actions=800
+  s5i5: score=0.00 levels=0/8 actions=800
+  sb26: score=0.00 levels=0/8 actions=800
+  sc25: score=0.00 levels=0/6 actions=800
+  sk48: score=0.00 levels=0/8 actions=800
+  sp80: score=0.00 levels=0/6 actions=800
+  su15: score=0.00 levels=0/9 actions=800
+  tn36: score=0.00 levels=0/7 actions=800
+  tr87: score=0.00 levels=0/6 actions=800
+  tu93: score=0.00 levels=0/9 actions=800
+  vc33: score=0.00 levels=0/7 actions=800
+  wa30: score=0.00 levels=0/9 actions=800
+EXIT:0
